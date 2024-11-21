@@ -1,0 +1,1 @@
+This sketch reads the temperature from a BMP180 sensor and activates a relay connected to a heat source to keep a refrigerator above freezing temperature in cold weather.
